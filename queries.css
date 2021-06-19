@@ -1,0 +1,178 @@
+@media only screen and (max-width: 1200px) {
+    .top-viwe { 
+        width: 100%;
+        margin-left: 20%;
+        padding: 0 2%;
+    }
+    .row {padding: 0 2%;}
+
+}
+
+@media only screen and (max-width: 1023px) {
+    body.full-body {
+        font-size: 18px;
+    }
+    h1 {
+        font-size: 2em;
+    }
+    section {
+        padding: 60px 0;
+    }
+    .long-pera {
+        width: 80%;
+        margin-left: 10%;
+    }
+    img.logo {
+        height: 71px;
+        margin-top: 31px;
+    }
+    img.phone-screen {
+        padding-top: 30px;
+        width: 70vh;
+    }
+    ul.main-nav {
+        margin-left: 23%;
+    }
+    img.city-logo {
+        margin-right: 1px;
+    }
+    section.download-section {
+        padding-bottom: 80px;
+    }
+    p.plan-price span {
+        font-size: 250%
+    }
+    .btn.btn-1.singup-btn, .btn.btn-2.singup-btn {
+        margin-left: 12%;
+    }
+    .btn.btn-1.singup-btn {
+       margin-top: 24px;
+    }
+    .btn.btn-2.singup-btn {
+        margin-top: 10%;
+    }
+    section.form-section {
+        width: 80%;
+    }
+    footer.foot-section {
+        padding: 30px;
+    }
+    ul.footer-nav {
+        font-size: 12px;
+    }
+    ul.social-media {
+        font-size: 12px;
+    }
+    p.foot-p {
+        padding-top: 45px;
+    }
+    img.cite-img {
+        width: 17%;
+    }
+    blockquote.quote-block {
+        font-size: 65%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    body.full-body {
+        font-size: 16px;
+    }
+    section {
+        padding: 30% 0;
+    }
+    .row.top-viwe {
+        padding: 0 4%;
+    }
+    div.col {
+        width: 100%;
+    }
+    .feature-cols {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .logo-svg {
+        width: 10%;
+        margin-right: 30%;
+    }
+    div.slide-nature-pic {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    section.download-section {
+        height: 129%;
+        margin-top: -25px;
+    }
+    div.down-steps {  
+        margin-bottom: 10px;
+    }
+    div.down-steps div {
+        width: 40px;
+        height: 40px;
+        padding: 0;
+        text-align: center;
+    }
+    img.btn-img {
+        margin-right: 6%;
+        width: 40%;
+    }
+    section.cities-section {
+        margin-top: -25px;
+        margin-bottom: -125px;
+    }
+    div.city-grid {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    div.city-cols {
+        margin-top: -30px;
+        padding-bottom: 60px;
+    }
+    div.review-cols {
+        grid-template-columns: auto;
+        margin-left: -150px;
+    }
+    img.cite-img {
+        width: 40px;
+    }
+    div.plan-col {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    div.plan-box {
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    .btn.btn-1.singup-btn {
+        margin-left: 29%;
+    }
+    .btn.btn-2.singup-btn {
+        margin-left: 29%;
+        margin-top: 20px;
+    }
+    ul.footer-nav {
+        display: inline-grid;
+    }
+    ul.social-media {
+        display: inline-grid;
+        margin-top: -80px;
+    }
+    p.foot-p {
+        padding-top: 10px;
+    }
+    ul.main-nav {
+        font-size: 16px;
+        display: inline-grid;
+        margin-left: 65%;
+        margin-top: 6%;
+    }
+}
+@media only screen and (max-width:480px) {
+
+    div.slide-nature-pic {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+}
